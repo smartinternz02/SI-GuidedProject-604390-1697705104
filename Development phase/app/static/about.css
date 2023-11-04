@@ -1,0 +1,84 @@
+body {
+  background-image: url('/static/images/background.jpg');
+  background-size: 1890px;
+  background-repeat: no-repeat;
+  background-position: -130px 0px;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #f7f7f7, #ffffff);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-family: "copperplate", fantasy;
+  padding: 10px 16px;
+  margin-left: 110px;
+}
+.topnav-right a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "copperplate", fantasy;
+}
+.topnav-right a:hover {
+  background-color: #ddd;
+  opacity: 70%;
+  color: black;
+}
+.topnav-right a.active {
+  background-color: #0b4eac;
+  opacity: 70%;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+  margin-top: 13px;
+}
+.multiline{
+  white-space: nowrap;
+  overflow: hidden;
+  margin-left: 70px;
+  justify-items: auto;
+}
+.typed {
+  font-size: 20px;
+  font-weight: 300;
+  background-image: linear-gradient(to left, #f7f7f7, #ffffff);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-family: "copperplate", fantasy;
+  margin-left: 50px;
+  animation: typing;
+  animation-duration: 1.5s;
+  animation-timing-function: steps(30, end);
+  animation-fill-mode: forwards;
+  white-space: nowrap;
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 55%;
+  }
+}
+div.scroll-container {
+  background-color: #05000f;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+  margin-right: 975px;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+div.scroll-container img {
+  padding: 7px;
+  background-color: #05000f;
+}
