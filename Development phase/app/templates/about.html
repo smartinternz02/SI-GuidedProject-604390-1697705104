@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='about.css') }}"> 
+
+    <title>Detection of covid-19<covid-19></covid-19></title>
+  </head>
+  <body>
+    <div class="topnav-right">
+      <a href="/">Home</a>
+      <a href="/index">Test</a>
+      <a class="active" href="/about">About</a>
+    </div>
+    <div id="heading">
+      <h1>Understand the algorithm</h1>
+    </div>
+      <div class="multiline">
+        <p class="typed">
+          This tool uses a deep learning model that processes image
+        </p>
+        <p class="typed">
+          inputs of chest x-rays to classify chest infections into viral,
+        </p>
+        <p class="typed">
+           normal and Covid-19. The model facilitates a transfer 
+        </p>
+        <p class="typed">
+          learning algorithm based on pre-trained MobileNetV2 CNN
+        </p>
+        <p class="typed">
+          architecture to make diagnostic predictions.
+        </p>
+        <p class="typed"></p>
+      </div>
+      <div class="scroll-container">
+        <img src='/static/images/sol.png' alt="Cinque Terre" width="600" height="400">
+        <img src='/static/images/graph.png' alt="Forest" width="600" height="400">
+        <img src='/static/images/enha.png' alt="Northern Lights" width="600" height="400">
+      </div>
+  </body>
+</html>
