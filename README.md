@@ -8,4 +8,4 @@
 5. Open app.py using any IDE that supports flask framework.
 6. Run the program and open the specified port number on the browser.
 
-
+Note : This application was developed on MacOS(ARMX64). The tensorflow versions subject to other systems may be different.
