@@ -12,7 +12,7 @@
 
 Note : This application was developed on MacOS(ARMX64). The library versions subject to other systems may be different.
 
-###Tech stack used:
+### Tech stack used:
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="arduino" width="40" height="40"/>
 
