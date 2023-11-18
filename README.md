@@ -20,3 +20,8 @@ Note : This application was developed on MacOS(ARMX64). The library versions sub
 
 1. Video presentation link : https://drive.google.com/file/d/1nYeGNG0KX3BzjMsuDT8e_8iwQ6FrQpqQ/view?usp=sharing
 2. Project report, final presentation are under the submission phase directory.
+
+## Directory structure:
+
+<img width="850" alt="Screenshot 2023-11-18 at 2 29 04 PM" src="https://github.com/smartinternz02/SI-GuidedProject-604390-1697705104/assets/108048779/297a6030-73ac-4f73-8d30-4cdbbcca1669">
+
