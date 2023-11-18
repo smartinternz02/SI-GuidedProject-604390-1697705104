@@ -16,3 +16,7 @@ Note : This application was developed on MacOS(ARMX64). The library versions sub
 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="arduino" width="40" height="40"/>
 
+## Other specifics:
+
+1. Video presentation link : https://drive.google.com/file/d/1nYeGNG0KX3BzjMsuDT8e_8iwQ6FrQpqQ/view?usp=sharing
+2. Project report, final presentation are under the submission phase directory.
